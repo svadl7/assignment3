@@ -355,7 +355,8 @@ footer .contactphoto:hover{
         margin:10px;
     }
     .education{
-        font-family:cursive;
+        font-family: 'Cursive Font', cursive, 'Fallback Font', sans-serif;
+
         
     }
     
