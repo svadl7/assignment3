@@ -245,6 +245,8 @@ footer .contactphoto:hover{
         'work'
         'footer';
         grid-gap: 0px;
+        font-weight: bold;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
     header{
         grid-area: header;
@@ -353,11 +355,6 @@ footer .contactphoto:hover{
         0 0 0 4px rgb(255, 241, 225);
         border-radius: 50px;
         margin:10px;
-    }
-    .education{
-        font-family: 'Cursive Font', cursive, 'Fallback Font', sans-serif;
-
-        
     }
     
     .Projects{
