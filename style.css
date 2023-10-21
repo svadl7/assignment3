@@ -245,8 +245,6 @@ footer .contactphoto:hover{
         'work'
         'footer';
         grid-gap: 0px;
-        font-weight: bold;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
     header{
         grid-area: header;
@@ -334,7 +332,7 @@ footer .contactphoto:hover{
         
     }
     .aboutme{
-        font-family: cursive;
+        font-family: Verdana, Geneva, Tahoma, sans-serifs;
          text-align: center;
          padding:10px;
      }
@@ -344,6 +342,7 @@ footer .contactphoto:hover{
         box-shadow: 0 10px 10px black;
     }
     .education{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
         display: block;
         grid-area: education;
     }
@@ -373,6 +372,7 @@ footer .contactphoto:hover{
         grid-area: work;
     }
     .skills{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
         text-align: center;
         margin:10px;
         border:2px;
@@ -383,6 +383,7 @@ footer .contactphoto:hover{
         width:93%;
     }
     .experience{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
         text-align: center;
         margin:10px;
         border:2px;
@@ -393,6 +394,7 @@ footer .contactphoto:hover{
         width:93%;
     }
     .blogs{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
         text-align: center;
         margin:10px;
         border:2px;
